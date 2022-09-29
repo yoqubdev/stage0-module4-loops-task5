@@ -3,7 +3,7 @@ package school.mjc.stage0.loops.task5;
 import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
-class HourglassTest extends BaseIOTest {
+class  HourglassTest extends BaseIOTest {
 
     @Test
     void printHourglassOfGivenSizePrintsHourglass() {
